@@ -46,5 +46,5 @@ Learn about web scraping techniques, tools, and frameworks using Python and othe
 
 ## Contributing
 
-Contributions to this repository are welcome! Feel free to suggest new resources, add more courses, or improve existing content. Please follow the [Contribution Guidelines](CONTRIBUTING.md) for more details.
+Contributions to this repository are welcome! Feel free to suggest new resources, add more courses, or improve existing content. 
 
