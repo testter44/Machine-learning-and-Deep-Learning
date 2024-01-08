@@ -9,7 +9,6 @@ Welcome to the repository for Python, Data Visualization, Machine Learning, Scra
 - [Machine Learning](#machine-learning)
 - [Web Scraping](#web-scraping)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Python
 
